@@ -1,0 +1,1 @@
+/home/alireza/StudioProjects/openCV/sdk/build/intermediates/cxx/Debug/6628n6b4/obj/x86_64
